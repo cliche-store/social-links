@@ -103,4 +103,8 @@ footer {
     flex-direction: column;
     flex-wrap: nowrap;
   }
+
+  footer {
+    display: none;
+  }
 }
